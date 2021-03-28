@@ -1,3 +1,2 @@
 {"statusCode":200,"body":
-[{"key":192,"epgChannelNumber":192,"title":"TF1","logoUrl":"https://proxymedia.woopic.com/553/p/logos/v2/logos/livetv_tf1/20180417_164011/webTVSquare/logo_150x150.png",
-"genre":"Nationale","zapNumber":1,"StreamURL":"https://rp-live.orange.fr/live-webapp/v3/applications/PC/programs?period=today&epgIds=192&mco=OFR"}]}
+[{"key":192,"epgChannelNumber":192,"title":"TF1","logoUrl":"https://proxymedia.woopic.com/553/p/logos/v2/logos/livetv_tf1/20180417_164011/webTVSquare/logo_150x150.png","genre":"Nationale","zapNumber":1,"StreamURL":"https://rp-live.orange.fr/live-webapp/v3/applications/PC/programs?period=today&epgIds=192&mco=OFR"}]}
